@@ -48,6 +48,7 @@
 本书第二版进行了多处修正和改进，更新了完整的索引，并新增了一章关于移动和可变形网格的内容，这一章由帕斯卡尔・让・弗雷（Pascal Jean Frey）撰写，他目前是皮埃尔和玛丽・居里大学（Université Pierre et Marie Curie）的全职教授。
 
 最后，在此我们提及三个与网格生成技术相关的网站，其中一个网站提供了数千个可下载的曲面网格：
+
 http://www-users.informatik.rwth-aachen.de/~roberts/meshgeneration.html
 
 http://www.andrew.cmu.edu/user/sowen/mesh.html
